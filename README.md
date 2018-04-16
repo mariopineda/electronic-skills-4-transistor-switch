@@ -1,4 +1,4 @@
-# electronic-skills-4-transistor-switch
+# Electronic Skills 4: Transistor Switch
 In this assignment you will control an LED with a transistor switch.
 
 ## Transistors
