@@ -10,10 +10,10 @@ Look carefully at the picture below to identify the emitter, base and collector 
 ![Transistor](images/transistor.png)
 
 Watch the following the videos:
-The Invention that Changed the World: https://youtu.be/OwS9aTE2Go4 (8:11)
-The transistor: https://youtu.be/-td7YT-Pums (8:55)
-A 1953 documentary about the transistor: https://youtu.be/V9xUQWo4vN0 (9:36)
-Moore’s Law: https://youtu.be/aWLBmapcJRU (2:59)
+* [The Invention that Changed the World](https://youtu.be/OwS9aTE2Go4)
+* [The transistor](https://youtu.be/-td7YT-Pums)
+* [A 1953 documentary about the transistor](https://youtu.be/V9xUQWo4vN0)
+* [Moore’s Law](https://youtu.be/aWLBmapcJRU)
 
 ## Circuit 1
 Breadboard the following circuit. Show the circuit to your teacher for marking.  
